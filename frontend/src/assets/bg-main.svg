@@ -1,0 +1,15 @@
+<svg width="1440" height="1024" viewBox="0 0 1440 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1440" height="1024" fill="#0D1A41"/>
+<rect x="24" y="992" width="100" height="8" fill="#8CEEED"/>
+<rect x="132" y="992" width="8" height="8" fill="#8CEEED"/>
+<rect x="148" y="992" width="8" height="8" fill="#8CEEED"/>
+<rect x="164" y="992" width="8" height="8" fill="#8CEEED"/>
+<rect width="100" height="8" transform="matrix(-1 0 0 1 1416 992)" fill="#8CEEED"/>
+<rect width="8" height="8" transform="matrix(-1 0 0 1 1308 992)" fill="#8CEEED"/>
+<rect width="8" height="8" transform="matrix(-1 0 0 1 1292 992)" fill="#8CEEED"/>
+<rect width="8" height="8" transform="matrix(-1 0 0 1 1276 992)" fill="#8CEEED"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M337 964L305 944H398L430 964H337ZM1010 964H1103L1135 944H1042L1010 964Z" fill="#8CEEED"/>
+<path d="M0 904V924H227L291 964H325L229 904H0Z" fill="#8CEEED"/>
+<path d="M1440 904V924H1213L1149 964H1115L1211 904H1440Z" fill="#8CEEED"/>
+<path d="M0 936V934H226L290 974H1150L1214 934H1440V936H1215L1151 976H289L225 936H0Z" fill="#8CEEED"/>
+</svg>

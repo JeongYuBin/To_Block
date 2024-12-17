@@ -1,0 +1,14 @@
+<svg width="1440" height="128" viewBox="0 0 1440 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="24" y="120" width="100" height="8" fill="#8CEEED"/>
+<rect x="132" y="120" width="8" height="8" fill="#8CEEED"/>
+<rect x="148" y="120" width="8" height="8" fill="#8CEEED"/>
+<rect x="164" y="120" width="8" height="8" fill="#8CEEED"/>
+<rect width="100" height="8" transform="matrix(-1 0 0 1 1416 120)" fill="#8CEEED"/>
+<rect width="8" height="8" transform="matrix(-1 0 0 1 1308 120)" fill="#8CEEED"/>
+<rect width="8" height="8" transform="matrix(-1 0 0 1 1292 120)" fill="#8CEEED"/>
+<rect width="8" height="8" transform="matrix(-1 0 0 1 1276 120)" fill="#8CEEED"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M337 60L305 40H398L430 60H337ZM1010 60H1103L1135 40H1042L1010 60Z" fill="#8CEEED"/>
+<path d="M0 0V20H227L291 60H325L229 0H0Z" fill="#8CEEED"/>
+<path d="M1440 0V20H1213L1149 60H1115L1211 0H1440Z" fill="#8CEEED"/>
+<path d="M0 32V30H226L290 70H1150L1214 30H1440V32H1215L1151 72H289L225 32H0Z" fill="#8CEEED"/>
+</svg>
